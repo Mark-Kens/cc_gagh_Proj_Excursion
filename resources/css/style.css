@@ -13,15 +13,15 @@ body {
 	color: #fff;
 }	
 
-header--secondary{
-	font-size: 21px;
-	color: #grey;
+.header--secondary{
+	font-weight: 300;
+	font-size: 42px;
+	color: #fff;
 }	
 
-header--sub-header{
-	font-weight: 300;
-	font-size: 50px;
-	color: #fff;
+.header--sub-header{
+	font-size: 21px;
+	color: #grey;
 }	
 
 /* LINKS */
